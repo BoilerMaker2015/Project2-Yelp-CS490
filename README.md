@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough 
 Here's a walkthrough of implemented user stories:
 
-![](https://github.com/BoilerMaker2015/project1-cs490Flicks/raw/master/yelp.gif)
+![](https://github.com/BoilerMaker2015/Project2-Yelp-CS490/raw/master/yelp.gif)
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
